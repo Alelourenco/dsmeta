@@ -1,4 +1,4 @@
-package com.devsuperior.config;
+package com.devsuperior.backend.config;
 
 import java.util.Arrays;
 
